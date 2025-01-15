@@ -1,6 +1,10 @@
 # Greak Supermaket Sales Analysis for the year 2023
 ---
 
+### Business Problem
+---
+Greak supermarket has noticed flunctuation in sales across various product categories and times if the year.Management wants to identify key factors influencing these variations and implement strategies to optimize sales performance.
+
 ### Project Overview
 ---
 The project provides a comprehensive overview of the Greak supermarket's sales performance for the year 2023. It includes key metrics such as total revenue, sales trends, payment methods, product lines, customer demographics, and branch performance. The dashboard is well-structured and visually appealing, making it easy to understand and interpret the data.
