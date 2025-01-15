@@ -3,7 +3,7 @@
 
 ### Business Problem
 ---
-Greak supermarket has noticed flunctuation in sales across various product categories and times if the year.Management wants to identify key factors influencing these variations and implement strategies to optimize sales performance.
+Greak supermarket has noticed flunctuation in sales across various product categories and times of the year.Management wants to identify key factors influencing these variations and implement strategies to optimize sales performance.
 
 ### Project Overview
 ---
