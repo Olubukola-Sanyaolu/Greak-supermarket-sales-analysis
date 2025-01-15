@@ -3,7 +3,7 @@
 
 ### Project Overview
 ---
-The dashboard provides a comprehensive overview of the Greak supermarket's sales performance for the year 2023. It includes key metrics such as total revenue, sales trends, payment methods, product lines, customer demographics, and branch performance. The dashboard is well-structured and visually appealing, making it easy to understand and interpret the data.
+The project provides a comprehensive overview of the Greak supermarket's sales performance for the year 2023. It includes key metrics such as total revenue, sales trends, payment methods, product lines, customer demographics, and branch performance. The dashboard is well-structured and visually appealing, making it easy to understand and interpret the data.
 
 <img width="714" alt="DB4" src="https://github.com/user-attachments/assets/194c2c40-3387-4c93-abaf-cd98df8d0fea">
 
